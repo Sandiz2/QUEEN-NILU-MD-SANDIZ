@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;w7wiDbJb#CYYQcpyzgdnkTHXG6kaDehZEFbI2lOd-qAX4da4l9tY' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://sandiz_user:Yevasz5T68huIktEGaLeWKvSWJKr93D6@dpg-cl0926rjdq6s73arcil0-a.frankfurt-postgres.render.com/sandiz'
 
  
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94704352872'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = '𝐒𝐀𝐍𝐃𝐈𝐍 𝐒𝐀𝐓𝐇𝐒𝐄𝐍'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -33,7 +33,7 @@ global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
 global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
-global.READ_MESSAGE = "true" 
+global.READ_MESSAGE = "false" 
 
 global.OPENAI_API_KEY = "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" 
 
@@ -41,23 +41,23 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ 𝙱𝙾𝚃 𝙱𝚈 𝚂𝙰𝙽𝙳𝙸𝙽 𝚂𝙰𝚃𝙷𝚂𝙴𝙽'
 
-global.FOOTER = 'Queen Nilu 2023'
+global.FOOTER = '𝚂𝙰𝙽𝙳𝙸𝚉 𝚘𝚏𝚏𝚒𝚌𝚒𝚊𝚕 2023'
 
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@𝚂𝙰𝙽𝙳𝙸𝚉 𝙾𝙵𝙲 🤹‍♂️' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ 𝚂𝙰𝙽𝙳𝙸𝚉 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://telegra.ph/file/2ce209c78caffec7b31f8.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = '' // Set Alive Message
+global.ALIVE_MESSAGE = 'hi👋 i am alive now' // Set Alive Message
 
 global.MAX_SIZE = '500' // Bot Uloading Max size 
 
@@ -71,12 +71,12 @@ global.ANTI_BOTS = true
 
 global.ONLY_GROUP = 'false' // Only group mode
 
-global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur group link
+global.GROUP_LINK = 'https://chat.whatsapp.com/BOYKjfV97d73zQTBIACjb3' // ur group link
 
 
 /* 18 + Download Settings */
 
-global.SEX_DL = 'false' // 18 + video dl
+global.SEX_DL = 'true' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
